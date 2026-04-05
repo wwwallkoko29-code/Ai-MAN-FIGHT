@@ -1,0 +1,7 @@
+SmartAdvisorAI/
+│
+├── index.html
+├── style.css
+├── script.js
+├── server.js  <-- Backend Node.js
+└── package.json
